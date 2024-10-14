@@ -1,4 +1,4 @@
-x1 = 9 #numero inero
+x1 = 9 #numero intero
 z = 12.4 #float
 y = 3
 print(type(x1))
@@ -6,11 +6,11 @@ print(type(y))
 print(type(z))
 
 x2 = "Francesco" #stringa
-c = True #bool o False
+c = True #booleano o False
 print(type(x2))
 print(type(c))
 
-x3 = [1,2,3] #list
+x3 = [1,2,3] #lista
 y1 = (3,4,5) #tuple
 v = range(10) 
 k = {5,9,6} #set
@@ -33,7 +33,7 @@ print(r.replace("Luca", "Francesco"))
 a = 10
 b = 25
 a += 30
-print(a) #operatori di asseganment
+print(a) #operatori di assegnamento
 
 A = 30
 B = 20
